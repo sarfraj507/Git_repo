@@ -1,3 +1,3 @@
 # Git_repo
-just for pracricing the git commands
+just for practicing the git commands
 Git Basics
